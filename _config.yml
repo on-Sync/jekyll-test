@@ -288,3 +288,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+collections:
+    _posts:
+      - data.md
+      - introduction.md
+      - basic-concepts.md
+      - advanced-concepts.md
