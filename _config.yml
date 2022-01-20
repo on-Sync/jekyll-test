@@ -290,8 +290,5 @@ defaults:
       related: true
 
 collections:
-    _posts:
-      - data.md
-      - introduction.md
-      - basic-concepts.md
-      - advanced-concepts.md
+    gggggg:
+      - _posts/data.md
