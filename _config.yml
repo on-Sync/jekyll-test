@@ -290,6 +290,6 @@ defaults:
       related: true
 
 collections:
-  staff_members:
+  gg:
     output: true
-      - _posts/data.md
+    permalink: /:collection/:path
